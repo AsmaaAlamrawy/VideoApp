@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">VideoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_video">Add Video</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="capture_or_pick">Do you want to capture video using camera or choose video from phone gallery?</string>
+    <string name="capture">Capture from Camera</string>
+    <string name="pick">Pick from phone</string>
 </resources>
